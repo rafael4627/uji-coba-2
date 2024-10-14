@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Buku Diaryku</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="diary">
+        <h1 class="title">MY DIARY</h1>
+        <input type="date" id="date" placeholder="Date">
+        <textarea id="entry" placeholder="Catatan harian ku"></textarea>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
